@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "O Guia do Mochileiro das Galáxias",
+    "numeroPaginas": 208,
+    "isbn": "978-8575422468",
+    "editora": "Arqueiro"
+  },
+  {
+    "id": 2,
+    "titulo": "A Guerra dos Tronos",
+    "numeroPaginas": 600,
+    "isbn": "978-8580442780",
+    "editora": "Leya"
+  }
+]
