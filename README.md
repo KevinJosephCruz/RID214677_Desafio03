@@ -1,4 +1,4 @@
-# Desafio 05: API e Integração Front-end
+# Desafio 03: API e Integração Front-end
 
 Este projeto foi desenvolvido com o objetivo de construir uma API RESTful em Node.js e Express para gerenciar uma coleção de livros, e integrá-la a um front-end criado com React.
 
